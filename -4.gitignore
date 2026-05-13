@@ -1,0 +1,43 @@
+# مخرجات التشغيل
+outputs/
+*.pdf
+*.pptx
+*.png
+
+# بيانات Excel
+*.xlsx
+*.xls
+*.csv
+
+# مفاتيح وبيانات سرية ⚠️
+credentials.json
+token.pickle
+*.env
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# بيئات افتراضية
+venv/
+env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# نظام التشغيل
+.DS_Store
+Thumbs.db
